@@ -23,8 +23,8 @@ This recipe page is a fully responsive design that features a simple omelette re
 ### Screenshot
 ![](./Screenshot%20(24).png)
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://your-solution-url.com)
+- Live Site URL: ([https://your-live-site-url.com](https://moonlit-sunflower-650b60.netlify.app/))
 
 ## My process
 
@@ -107,7 +107,7 @@ This project reinforced my understanding of responsive design and semantic HTML.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - codeman-piklu
+
+- Frontend Mentor - [@Codeman-piklu](https://www.frontendmentor.io/profile/Codeman-piklu)e)
+- GitHub - codeman-piklu(https://github.com/Codeman-piklu/recipe-page/edit/main/README.md)
 
